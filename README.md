@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact **I am a humorous person**
 
-
+<br>
+<hr>
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Toolkit</h4>
 
