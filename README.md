@@ -2,11 +2,11 @@
 <h3>A Front-End Developer who turns a cup of coffee and a simple idea into an interactive, responsive, and captivating digital interface</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/aldeny/aldeny/main/coding.gif">
 
-- 🔭 I’m currently working on **Creative Agency**
+- 🔭 I’m currently working on **Travelling**
 
-- 🌱 I’m currently learning **ReactJS, Laravel, NextJs**
+- 🌱 I’m currently learning **Laravel, NextJs**
 
-- 💬 Ask me about **Laravel, TailwindCSS**
+- 💬 Ask me about **PHP, Javascript, TailwindCSS, ReactJS**
 
 - 📫 How to reach me **ariefrahman42@gmail.com**
 
