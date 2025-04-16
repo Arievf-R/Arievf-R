@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aldeny</h1>
-<h3 align="center">A full stack developer who turns a cup of coffee into an application</h3>
+<h1 align="center">Hi 👋, I'm Arievf Rahman</h1>
+<h3 align="center">A Front-End Developer who turns a cup of coffee and a simple idea into an interactive, responsive, and captivating digital interface</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/aldeny/aldeny/main/coding.gif">
 
 - 🔭 I’m currently working on **Creative Agency**
@@ -8,16 +8,11 @@
 
 - 💬 Ask me about **Laravel, TailwindCSS**
 
-- 📫 How to reach me **poor.grammer.code@gmail.com**
+- 📫 How to reach me **ariefrahman42@gmail.com**
 
 - ⚡ Fun fact **I am a humorous person**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aldeny28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldeny28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aldeny-skom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldeny28" height="30" width="40" /></a>
-<a href="https://instagram.com/aldeny28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldeny28" height="30" width="40" /></a>
-</p>
+
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Toolkit</h4>
 
