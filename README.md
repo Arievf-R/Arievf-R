@@ -21,7 +21,7 @@
 </a>
 <a href="https://linkedin.com/in/arief-rahman-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arief-rahman-" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@arivf.r" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/TikTok_logo_2018.svg" alt="arief-rahman-" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/TikTok_logo_2018.svg" alt="arivf.r" height="30" width="40" />
 </a>
 <a href="https://instagram.com/arievf.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arievf.r" height="30" width="40" /></a>
 </p>
