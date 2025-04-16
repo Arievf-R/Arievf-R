@@ -1,9 +1,23 @@
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=25&pause=1000&color=11E5F7FF&vCenter=true&width=400&height=25&lines=Hallo!;I'm+Arievf+Rahman)](https://git.io/typing-svg) <br> a Software Developer specializing in Frontend
- Development. I have 5 months of experience as a freelance web
- developer, tech stack includes React.js and Next.js. I am passionate
- about creating intuitive and user-friendly interfaces while ensuring
- smooth integration with backend systems. I excel at slicing UI from
- Figma into functional web components
+<h1 align="center">Hi 👋, I'm Aldeny</h1>
+<h3 align="center">A full stack developer who turns a cup of coffee into an application</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/aldeny/aldeny/main/coding.gif">
+
+- 🔭 I’m currently working on **Creative Agency**
+
+- 🌱 I’m currently learning **ReactJS, Laravel, NextJs**
+
+- 💬 Ask me about **Laravel, TailwindCSS**
+
+- 📫 How to reach me **poor.grammer.code@gmail.com**
+
+- ⚡ Fun fact **I am a humorous person**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aldeny28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldeny28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aldeny-skom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldeny28" height="30" width="40" /></a>
+<a href="https://instagram.com/aldeny28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldeny28" height="30" width="40" /></a>
+</p>
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Toolkit</h4>
 
