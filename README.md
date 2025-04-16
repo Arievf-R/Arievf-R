@@ -20,7 +20,11 @@
 </a>
 <a href="https://linkedin.com/in/arief-rahman-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arief-rahman-" height="30" width="40" /></a>
 <a href="https://instagram.com/arievf.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arievf.r" height="30" width="40" /></a>
+  <a href="https://www.tiktok.com/@usernamekamu" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" />
+</a>
 </p>
+
 
 
 <br>
