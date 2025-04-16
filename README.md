@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://wa.me/6282386471598" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/arief-rahman-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arief-rahman-" height="30" width="40" /></a>
 <a href="https://instagram.com/arievf.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arievf.r" height="30" width="40" /></a>
