@@ -11,7 +11,7 @@
 - 📫 How to reach me **ariefrahman42@gmail.com**
 
 - ⚡ Fun fact **I am a humorous person**
-
+<hr>
 <br>
 
 
