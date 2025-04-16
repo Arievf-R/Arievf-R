@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arievf Rahman</h1>
-<h3 align="center">A Front-End Developer who turns a cup of coffee and a simple idea into an interactive, responsive, and captivating digital interface</h3>
+<h2 align="center">A Front-End Developer who turns a cup of coffee and a simple idea into an interactive, responsive, and captivating digital interface</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/aldeny/aldeny/main/coding.gif">
 
 - 🔭 I’m currently working on **Creative Agency**
