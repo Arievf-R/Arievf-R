@@ -30,5 +30,5 @@
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Toolkit</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,nextjs,figma,bootstrap,tailwind,vscode,git,postman,github,php,vite,npm,vercel,gmail,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,nextjs,figma,bootstrap,tailwind,vscode,git,postman,github,php,vite,npm,vercel,gmail,gcp)](https://skillicons.dev)
 
