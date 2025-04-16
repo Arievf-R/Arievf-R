@@ -30,8 +30,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,nextjs,figma,bootstrap,tailwind,vscode,git,postman)](https://skillicons.dev)
 
-<h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Let's Connect</h4>
-
-[![LinkenIn Badge](https://img.shields.io/badge/-ariefrahman-764ABC?style=flat&labelColor=0D1117&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-rahman-)
-[![Instagram Badge](https://img.shields.io/badge/-arievf.r-F8302E?style=flat&labelColor=0D1117&logo=instagram&logoColor=white)](https://www.instagram.com/arievf.r/)
-[![Whatsapp Badge](https://img.shields.io/badge/-ariefrahman-6DA252?style=flat&labelColor=0D1117&logo=whatsapp&logoColor=white)](https://wa.me/6282386471598)
